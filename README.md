@@ -101,8 +101,8 @@ By combining **Operational Technology (OT)** with **Information Technology (IT)*
 ---
 
 ### 🧾 Deliverables
-📄 [Project Report (PDF)](./IoT Project Report.pdf) *(to be added)*  
-📊 [Presentation Slides (PPT)](./IoT Project Slides_Healthcare.pdf)   
+📄 [Project Report (PDF)](./IoT Project Report.pdf). 
+📊 [Presentation Slides (PPT)](./IoT Project Slides_Healthcare.pdf).  
 
 ---
 
